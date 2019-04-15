@@ -27,6 +27,11 @@ Day 2 - Going thorugh the basics of CSS. I had never done CSS in my life before 
 Day 3- The hardest part , The javascript basics , Even though I had gone through a few "shortcut" tips to JavaScript, I had never actually made something I was proud to show with Java Script. But with HTML it was compeltely a differnet story. And when I learned it's not as easy as HTML but still doable, then I thought I should give it a try. But it's a complete different story. I will get to it in another post. 
 
 Beginning with my HTML tags. <Need to create pictures with HTML demo - create it themselves>
+ 
+ 
+ Beginning with CSS tags 
+Beginning with the simplest form of JavaScript
+For a novice programmer for me, I am well aware of the technical jargons but still have a hard time mastering the language, And I know when I say master, for me it means being able to write a code 
 
 
 
